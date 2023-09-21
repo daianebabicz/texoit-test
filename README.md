@@ -10,10 +10,6 @@ Uma interface web desenvolvida em React.js que permite a visualização da lista
 - [Como usar](#como-usar)
 - [Testes](#testes)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
-
 ## Recursos
 
 - Visualização de um dashboard com detalhes sobre os filmes.
