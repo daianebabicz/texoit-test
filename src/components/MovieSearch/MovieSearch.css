@@ -1,0 +1,32 @@
+/* src/components/MovieSearch.css */
+.movie-search-container {
+    margin: 20px;
+  }
+  
+  .movie-search label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .movie-search input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .movie-search button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .movie-search button:hover {
+    background-color: #0056b3;
+  }
+  

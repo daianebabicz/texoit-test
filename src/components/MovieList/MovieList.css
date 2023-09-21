@@ -1,0 +1,35 @@
+/* src/components/MovieList.css */
+.movie-list-container {
+    margin: 20px;
+  }
+  
+  .movie-list-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .movie-list-table th,
+  .movie-list-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .movie-list-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+  
+  .movie-list-table tbody tr:nth-child(even) {
+    background-color: #f0f0f0;
+  }
+  
+  .movie-list-table tbody tr:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .movie-list-table h2 {
+    margin-top: 0;
+  }
+  

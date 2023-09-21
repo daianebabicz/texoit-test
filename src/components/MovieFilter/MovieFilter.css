@@ -1,0 +1,19 @@
+/* src/components/MovieFilter.css */
+.movie-filter-container {
+    margin: 20px;
+  }
+  
+  .movie-filter label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .movie-filter input,
+  .movie-filter select {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  

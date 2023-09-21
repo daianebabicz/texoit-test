@@ -1,0 +1,37 @@
+/* src/components/MovieTable.css */
+.movie-table-container {
+    margin: 20px;
+  }
+  
+  .movie-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .movie-table th,
+  .movie-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .movie-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+  
+  .movie-table tbody tr:nth-child(even) {
+    background-color: #f0f0f0;
+  }
+  
+  .movie-table tbody tr:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .movie-table-empty {
+    margin: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: red;
+  }
+  
